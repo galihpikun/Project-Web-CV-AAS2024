@@ -598,24 +598,38 @@ footer p {
         justify-content: space-around;
         max-width: 425px;
     }
-    .navbar p{
+    .navbar p {
+        font-size: larger;
+    }
+    #pembatas {
         position: absolute;
         visibility: hidden;
     }
     .Logo-sosmed img {
-        width: 25px;
-        padding: 5px;
+        position: absolute;
+        visibility: hidden;
         
     }
     .jumbotron {
-        margin-top: 30px;
+        margin-top: 50px;
         font-size: smaller;
+        margin-bottom: 20px;
+    }
+    .jumbotron {
+        text-align: center;
     }
     .jumbotron img {
-        width: 250px;
+
+        position: absolute;
+        visibility: hidden;
     }
     .html, .css, .java, .javascript, .adobe, .figma {
         width: 140px;
         height: auto;
+    }
+}
+@media (max-width: 425px) {
+    .Logo-sosmed img {
+        width: 20px;
     }
 }
