@@ -569,7 +569,7 @@ footer p {
         margin-left: 0;
     }
     .image-card2 img {
-        width: 400px;
+        width: 350px;
     }
     .project3 {
         margin: 20px;
@@ -586,7 +586,7 @@ footer p {
         margin-left: 0;
     }
     .image-card3 img {
-        width: 400px;
+        width: 350px;
     }
 
     #contacts {
@@ -639,10 +639,5 @@ footer p {
         width: 120px;
         height: auto;
     }
-    .image-card3 img {
-        width: 450px;
-    }
-    .image-card2 img {
-        width: 450px;
-    }
+    
 }
