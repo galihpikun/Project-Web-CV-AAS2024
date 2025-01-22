@@ -1,4 +1,7 @@
-body {
+* {
+    scroll-behavior: smooth;
+}
+    body {
     background-color: #021526;
     color: white;
     margin: 0;

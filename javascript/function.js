@@ -4,7 +4,8 @@ document.getElementById("form").addEventListener("submit",function (event) {
     const form = document.getElementById("form");
 
     alert("your message has been! \n thanks for contacting us")
- 
+
+    
 }
 )
   function copynomor (){
