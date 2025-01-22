@@ -507,6 +507,20 @@ footer p {
     border: 3px solid #6EACDA;
     justify-content: center;
 }
+#kanye   {
+    text-decoration: none;
+    color: white;
+    font-family: 'quicksand', sans-serif;
+    background-color: #03346E;
+    border: 3px solid #6EACDA;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: large;
+    margin-top: 10px;
+}
+#kanye:hover {
+    background-color: #6EACDA;
+}
 @media (max-width: 768px) {
     body {
         max-width: 768px;
